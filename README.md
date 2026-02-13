@@ -7,3 +7,7 @@ It includes the following diagrams:
 - Detailed Class Diagram for the Business Logic Layer
 - Sequence Diagrams for API Calls
 - Technical Document
+
+## High-Level Package Diagram
+
+![High-Level Package Diagram](part1/diagramme_de_package.png)
